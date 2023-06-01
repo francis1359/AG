@@ -1,5 +1,5 @@
 <?php
-$servername = "violentos.mysql.database.azure.com"; // Nombre del servidor de MySQL
+$servername = "localhost"; // Nombre del servidor de MySQL
 $username = "Farmacia2023"; // Nombre de usuario de MySQL
 $password = "U-TW1gB02023"; // Contraseña de MySQL
 $database = "aplicacionesgraficas"; // Nombre de la base de datos
